@@ -10,13 +10,11 @@ You’ve been provided a working demo server by your instructor. Get this code w
 
 ## Links and Resources
 
-ci/cd (GitHub Actions): 
+ci/cd (GitHub Actions):
 
 pull request: https://github.com/AllieDunkel/server-deployment-practice/pull/1 
 
 back-end server url: https://git.heroku.com/allie-server-deploy-dev.git 
-
-front-end application:
 
 ## Setup
 
