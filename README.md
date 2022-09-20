@@ -21,6 +21,7 @@ back-end server url: https://git.heroku.com/allie-server-deploy-dev.git
 ### .env requirements (where applicable)
 
 PORT - Port Number
+
 DATABASE_URL - URL to the running Postgres instance/db
 
 ### How to initialize/run your application (where applicable)
@@ -32,12 +33,15 @@ Use npm start
 #### Features / Routes
 
 Feature One: Details of feature
+
 GET : /hello - specific route to hit
 
 ## Tests
 
 How do you run tests?
+
 Any tests of note?
+
 Describe any tests that you did not complete, skipped, etc
 
 ## UML
