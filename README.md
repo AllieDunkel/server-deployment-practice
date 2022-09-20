@@ -24,7 +24,9 @@ You will repeat this process for every server based lab moving forward. Keep the
 ## URL's
 
 Heroku applications: https://git.heroku.com/allie-server-deploy-dev.git 
+
 Github actions:
+
 Pull request: https://github.com/AllieDunkel/server-deployment-practice/pull/1 
 
 ## Drawings
